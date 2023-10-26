@@ -2,4 +2,3 @@ FROM alpine
 #MAINTAINER Adnan Bhatti <adpak1@gmail.com> #deprecated
 LABEL org.opencontainers.image.authors="Adnan Bhatti"
 LABEL org.opencontainers.image.description="Container image for https://github.com/abishekvashok/cmatrix"
-s
