@@ -25,4 +25,3 @@ COPY --from=cmatrixbuilder /cmatrix/cmatrix /cmatrix
 USER arbhatti 
 ENTRYPOINT ["./cmatrix"]
 CMD ["-M Hello from Rabab"]
-
